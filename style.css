@@ -1,0 +1,39 @@
+
+p{
+    margin:0px;
+    font-family: "Roboto", sans-serif;
+   
+}
+.thumnail{
+    width:100%;
+}
+.title{
+    font-weight:500;
+    margin-bottom:10px;
+    color:black;
+}
+.chennal-profile{
+    vertical-align:top;
+
+}
+.img{
+    margin-top:8px;
+    width:50px;
+    border-radius:50%;
+}
+.video-content{
+    
+    color:grey;
+
+}
+.youtube{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    gap:20px;
+}
+.video-info{
+    display:grid;
+    grid-template-columns:50px 1fr;
+    width:100%;
+
+}
